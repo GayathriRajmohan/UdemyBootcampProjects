@@ -12,7 +12,7 @@ The game displays a sequence of colored buttons in random order. Players must th
 - Increasing sequence length with each successful level.
 - Audio cues for button presses and game over.
 
-## Running TinDog Locally
+## Running Simon Game Challenge Locally
 
 - Clone repository by running this command on git-bash
 ```
