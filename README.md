@@ -2,8 +2,8 @@
 
 The Complete 2024 Web Development Bootcamp by Angela Yu - Projects
 Welcome! This repository contains the projects I completed for The Complete 2024 Web Development Bootcamp course by Angela Yu on Udemy.
-![Certificate](https://drive.google.com/file/d/1ZEcOXcZxA5B6qEk7Vds_K56WU98frs78/view)
-
+![Certificate](https://github.com/GayathriRajmohan/UdemyBootcampProjects/assets/99108065/55604c14-d34a-4274-88c4-6e78a63b5750)
+Verify it by [clicking here](https://www.udemy.com/certificate/UC-921bb769-04f0-43c9-947e-b69b1d0dccde/)
 ## Getting Started
 
 These projects utilize various technologies covered throughout the course.  Be sure you have a development environment set up with the necessary tools for each project.
