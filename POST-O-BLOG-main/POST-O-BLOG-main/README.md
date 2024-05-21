@@ -48,10 +48,10 @@
 ## LOCAL ENVIRONMENT SETUP
 - Clone repository by running this command on git-bash
 ```
-    git clone https://github.com/GayathriRajmohan/UdemyBootcampProjects/POST-O-BLOG-MAIN.git
+    git clone https://github.com/GayathriRajmohan/UdemyBootcampProjects.git
 ```
 
-- Run command `cd POST-O-BLOG`
+- Run command `cd POST-O-BLOG/POST-O-BLOG`
 
 - Install Dependencies using
 ```
